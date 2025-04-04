@@ -1,4 +1,5 @@
-source 'https://rubygems.org'
-gem 'nokogiri'
-gem 'rack', '~> 2.2.4'
-gem 'rspec'
+source "https://rubygems.org"
+
+gem "github-pages", "~> 227", group: :jekyll_plugins
+gem "minimal-mistakes-jekyll"
+gem "webrick"

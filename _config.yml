@@ -1,0 +1,12 @@
+title: "Tracking Centre Maxout"
+email: yashulakshya310@gmail.com
+description: >-
+  A revolutionary product designed to empower direct selling distributors by providing advanced tracking of prospects, efficient business management, and actionable insights for sustainable growth.
+baseurl: ""  # leave empty for user/organization sites
+url: "https://soullifter.github.io"  # update with your actual URL if applicable
+
+# Build settings
+theme: minimal-mistakes-jekyll
+
+header_pages:
+  - about
