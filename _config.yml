@@ -1,12 +1,32 @@
-title: "Tracking Centre Maxout"
-email: yashulakshya310@gmail.com
-description: >-
-  A revolutionary product designed to empower direct selling distributors by providing advanced tracking of prospects, efficient business management, and actionable insights for sustainable growth.
-baseurl: ""  # leave empty for user/organization sites
-url: "https://soullifter.github.io"  # update with your actual URL if applicable
+title: Path2Destiny
+description: Coaching & mentorship to help you write your own story.
+url: "https://soullifter.github.io"   # your user site
+baseurl: ""                           # user site = empty
+theme: minima
 
-# Build settings
-theme: minimal-mistakes-jekyll
+author:
+  name: Yashwanth Adunukota
+  email: yashulakshya310@gmail.com
 
-header_pages:
-  - about
+# Header navigation
+nav:
+  - title: "About"
+    url: /about/
+  - title: "Packages"
+    url: /packages/
+  - title: "Subscribe"
+    url: /subscribe/
+  - title: "FAQ"
+    url: /faq/
+  - title: "Contact"
+    url: /contact/
+
+# Build
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# SEO (optional)
+social_links:
+  - { platform: instagram, user_url: "https://instagram.com/TheUnshakableEmpire" }
