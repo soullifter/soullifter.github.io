@@ -17,7 +17,7 @@ Join the **Path2Destiny Community** for updates, discussions & accountability:
 
 ## 📷 Instagram  
 Follow my journey, see the dreams I’ve ticked, and the ones I’m chasing:  
-👉 [Adunukota Yashwanth](https://www.instagram.com/lifter_soul?igsh=cGhoOTVqNmdpcXAz&utm_source=qr)
+👉 [Adunukota Yashwanth (@lifter_soul)](https://www.instagram.com/lifter_soul?igsh=cGhoOTVqNmdpcXAz&utm_source=qr)   
 
 ---
 
@@ -32,5 +32,12 @@ For any queries or collaborations:
 👉 [yashulakshya310@gmail.com](mailto:yashulakshya310@gmail.com)
 
 ---
+
+## 🌍 Location  
+Based in the **United States (PT timezone)**. Replies usually within 24 hours.  
+
+---
+
+> 📌 **Note:** If you want to join Path2Destiny, please first go to [Subscribe](/subscribe/) and complete the form after payment. That way, we can onboard you smoothly.  
 
 ✨ Don’t hesitate — reach out and let’s start building your story.

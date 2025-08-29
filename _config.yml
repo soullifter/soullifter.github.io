@@ -1,32 +1,24 @@
 title: Path2Destiny
-description: Coaching & mentorship to help you write your own story.
-url: "https://soullifter.github.io"   # your user site
-baseurl: ""                           # user site = empty
+description: Guidance to help you write your own story.
+url: "https://soullifter.github.io"
+baseurl: ""
 theme: minima
 
 author:
-  name: Yashwanth Adunukota
-  email: yashulakshya310@gmail.com
+  Yashwanth Adunukota
+  yashulakshya310@gmail.com
 
-# Header navigation
-nav:
-  - title: "About"
-    url: /about/
-  - title: "Packages"
-    url: /packages/
-  - title: "Subscribe"
-    url: /subscribe/
-  - title: "FAQ"
-    url: /faq/
-  - title: "Contact"
-    url: /contact/
+# Header navigation (Minima uses this, not `nav`)
+header_pages:
+  - index.markdown      # Home (optional; remove to hide)
+  - about.markdown      # My Story
+  - buckets.md          # Five Buckets (optional)
+  - packages.md         # Packages
+  - subscribe.md        # Subscribe
+  - faq.md              # FAQ
+  - contact.md          # Contact
 
-# Build
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-
-# SEO (optional)
-social_links:
-  - { platform: instagram, user_url: "https://instagram.com/TheUnshakableEmpire" }

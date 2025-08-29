@@ -4,44 +4,82 @@ title: Packages
 permalink: /packages/
 ---
 
-Everyone starts with **clarity on goals** → then moves into the right community or 1:1.
-Not sure where you belong? Check [Five Buckets](/buckets/).
+Everyone starts with **clarity on goals** → then moves into the right community or 1:1.  
+Not sure where you belong? First, check [Five Buckets](/buckets/).  
 
 ---
 
-## Pathfinder 1:1 — ₹1499
-**Audience:** Anyone unsure about what to do next  
-**Actions:** 2× 20-min 1:1 sessions in month → define Short / Mid / Long-term goals, one for 15 days
-**Goal:** By the end, you’ll have **clarity on your direction**
+## 🔹 Pathfinder 1:1 — ₹1499 (one-time)
+This is the **starting point** for everyone. Before you join Circle or 1:1 memberships, you need clear goals.  
+
+**What happens:**  
+- You and I will have **2× one-on-one sessions** (20 mins each) within a month.  
+  - Session 1: Define your **Short / Mid / Long-term goals** and create a roadmap.  
+  - Session 2 (after 15 days): Review, refine, and adjust your goals. 
+- Passive support: I’ll also be **available on text** for small clarifications in between.  
+
+**By the end:**  
+- You’ll walk away with **clarity on your direction** and a solid **goal roadmap**.  
+- Only after this step should you move to Circle / Premium Circle / Ultimate 1:1.  
 
 ---
 
-## Circle — ₹999 / month
-**Audience:** People who already have clarity and want accountability  
-**Actions:**  
-- 1× group call per month (bucket-focused)  
-- Weekly 2 actions to stay on track  
-**Goal:** Steady progress towards your goals with peer support  
+## 🔹 Circle — ₹999 / month
+Once your goals are set, Circle gives you **accountability + peer support**.  
+
+**What happens:**  
+- You’ll be added to the **bucket(s)** you belong to (from the Five Buckets).  
+- Each bucket gets **2 small actions per week** → everyone works on them.  
+- You can ask questions anytime in the group.  
+- Every month, there’s a **bucket-focused group call** where we cover topics most needed at that stage.  
+
+**By the end:**  
+- You’ll stay **consistent and on track**.  
+- Progress is steady because you’re never alone — you move forward with peers on the same journey.  
 
 ---
 
-## Premium Circle — ₹1,999 / month
-**Audience:** People who want Circle + extra personal touch  
-**Perks:**  
-- Everything in Circle  
-- Ask questions anytime in group  
-- 1× personal 1:1 (20-min) per month  
-**Goal:** All benefits of Circle plus personal guidance when needed  
+## 🔹 Premium Circle — ₹1,999 / month
+Everything in Circle **+ extra personal attention**.  
+
+**What happens:**  
+- All Circle benefits (weekly actions, monthly bucket call, group support).  
+- Plus: **2× one-on-one sessions (20 mins each) every month** with me.  
+- Ask your questions directly, and get personal feedback faster.  
+
+**By the end:**  
+- You get both the **community energy** and **personal guidance** whenever needed.  
 
 ---
 
-## Ultimate 1:1 (Very Limited) — ₹7,999 / month
-**Audience:** People who are truly serious about achieving their goals  
-**Actions:**  
-- Weekly 1:1 (30-min)  
-- All benefits from Circle & Premium Circle  
-**Goal:** Full navigation + accountability — I’ll walk the path with you  
+## 🔹 Ultimate 1:1 (Very Limited) — ₹7,999 / month
+This is the **highest level of accountability** — for people who are truly serious about growth.  
+
+**What happens:**  
+- Everything in **Circle** + **Premium Circle**.  
+- Plus: **Weekly 1:1 (30 min)** calls with me.  
+- I’ll walk alongside you every week, making sure your roadmap is executed step by step.  
+
+**By the end:**  
+- You’ll have **full navigation + accountability**.  
+- I’ll guide you through every decision, every week, until your goals turn into reality.  
 
 ---
+
+## 🌟 How it works overall
+1. **Start with Pathfinder 1:1** → get clarity and roadmap.  
+2. **Move into Circle / Premium / Ultimate** → choose the right level of accountability.  
+3. **Buckets system** → you’ll join the community buckets (School, College, Grad, Job Seeker, Professional) based on your stage.  
+   - Each bucket has **2 weekly tasks** to achieve.  
+   - Monthly **bucket call** for discussions & progress.  
+
+---
+
+### 🌍 Giving Back
+Path2Destiny was started with a noble cause.  
+**30% of all contributions** are used to support people in need.  
+Your investment not only builds your future but also spreads hope to others.
+---
+
 
 👉 Next Step: [Subscribe Now](/subscribe/)  
