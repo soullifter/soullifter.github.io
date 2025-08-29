@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title:
 permalink: /
 ---
 
@@ -34,3 +34,38 @@ Together, we grow with good vibes. ✨
 ---
 
 👉 [Read My Story](/about/) · [Five Categories](/buckets/) . [See Packages](/packages/) · [Subscribe Now](/subscribe/)
+
+<div style="margin-top:20px; text-align:center;">
+  <!-- Instagram -->
+  <a href="https://instagram.com/lifter_soul" target="_blank" rel="noopener" style="margin-right:20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" 
+         alt="Instagram" width="40" height="40">
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@yashwanthroyal5441" target="_blank" rel="noopener" style="margin-right:20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" 
+         alt="YouTube" width="100" height="40">
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/adunukota-yashwanth-73b32a18b/" target="_blank" rel="noopener" style="margin-right:20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" 
+         alt="LinkedIn" width="40" height="40">
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://chat.whatsapp.com/D1Srou22Ak6AoRaimfAqDt?mode=ems_copy_c" target="_blank" rel="noopener">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" 
+         alt="WhatsApp" width="40" height="40">
+  </a>
+</div>
+
+<p style="text-align:center; margin-top:10px;">
+  📺 All recorded sessions and regular updates will be available on our 
+  <a href="https://www.youtube.com/@yashwanthroyal5441" target="_blank" rel="noopener"><b>YouTube channel</b></a>.  
+  Don’t forget to subscribe for notifications!
+</p>
+
+
+
