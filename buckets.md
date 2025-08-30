@@ -1,7 +1,14 @@
 ---
-layout: page
+layout: single
 title: Five Buckets
 permalink: /buckets/
+author_profile: true
+toc: true
+header:
+  overlay_color: "#111"
+  overlay_filter: "0.45"
+  overlay_image: "https://images.unsplash.com/photo-1520975922215-230d3bc05d8d?q=80&w=1600&auto=format&fit=crop"
+---
 ---
 
 Everyone’s journey is different — but most people fall into one of these **five stages**.  
@@ -13,6 +20,9 @@ Identifying your bucket is important because:
 ---
 
 ## 1. School Students (up to 10th class)
+<details class="acc" markdown="1">
+  <summary><span class="acc__icon">📚</span><span>Tap to see guidance for School Students</span></summary>
+
 This is the foundation stage. Life is full of curiosity, but also confusion about the future.  
 
 **Examples of what you might need:**  
@@ -26,9 +36,14 @@ This is the foundation stage. Life is full of curiosity, but also confusion abou
 - Discover what subjects excite you  
 - Build confidence and early clarity  
 
+</details>
+
 ---
 
 ## 2. College Students (Intermediate / 11th & 12th)
+<details class="acc" markdown="1">
+  <summary><span class="acc__icon">🧭</span><span>Tap to see guidance for Intermediate / 11th–12th</span></summary>
+
 This is where pressure starts — competitive exams decide the next step.  
 
 **Examples of what you might need:**  
@@ -42,9 +57,14 @@ This is where pressure starts — competitive exams decide the next step.
 - Get into a reputed college  
 - Build confidence in your chosen career path  
 
+</details>
+
 ---
 
 ## 3. Undergrad / Grad Students
+<details class="acc" markdown="1">
+  <summary><span class="acc__icon">🎓</span><span>Tap to see guidance for Undergrad / Grad Students</span></summary>
+
 Now you’re in college — but it’s not just about classes. You need to start building your profile.  
 
 **Examples of what you might need:**  
@@ -58,9 +78,14 @@ Now you’re in college — but it’s not just about classes. You need to start
 - Build projects that stand out  
 - Prepare for GRE/TOEFL or CAT if planning further studies  
 
+</details>
+
 ---
 
 ## 4. Graduates Looking for Jobs
+<details class="acc" markdown="1">
+  <summary><span class="acc__icon">💼</span><span>Tap to see guidance for Job Seekers</span></summary>
+
 You’ve finished college, but now comes the real test — finding your first job.  
 
 **Examples of what you might need:**  
@@ -74,9 +99,14 @@ You’ve finished college, but now comes the real test — finding your first jo
 - Build industry connections  
 - Gain interview confidence  
 
+</details>
+
 ---
 
 ## 5. Working Professionals
+<details class="acc" markdown="1">
+  <summary><span class="acc__icon">🚀</span><span>Tap to see guidance for Working Professionals</span></summary>
+
 You’ve started working — but now it’s about growth, stability, and bigger dreams.  
 
 **Examples of what you might need:**  
@@ -90,15 +120,23 @@ You’ve started working — but now it’s about growth, stability, and bigger 
 - Earn more income through side projects/business  
 - Build a long-term roadmap (career + personal life)  
 
+</details>
+
 ---
 
 ## 🌟 Why Buckets Matter
+<details class="acc" markdown="1">
+  <summary><span class="acc__icon">✨</span><span>Tap to see why Buckets matter</span></summary>
+
 - A school student doesn’t need job interview prep yet.  
 - A working professional doesn’t need help picking a 10th class stream.  
 - Each stage has **unique challenges and next steps**.  
 
 When you know your bucket, you can focus on the **right guidance for you today**, instead of being lost in everything at once.
 
----
+</details>
+
+___
+
 
 👉 Find your bucket → then [choose your package](/packages/) to start your journey.  

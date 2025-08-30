@@ -1,7 +1,14 @@
 ---
-layout: page
+layout: single
 title: My Story
 permalink: /about/
+author_profile: true
+toc: true
+header:
+  overlay_color: "#111"
+  overlay_filter: "0.45"
+  overlay_image: "https://images.unsplash.com/photo-1520975922215-230d3bc05d8d?q=80&w=1600&auto=format&fit=crop"
+---
 ---
 
 ![Yashwanth Adunukota](/assets/images/yashwanth.jpg){:style="width:300px; margin:20px 0; border:2px solid #ddd; border-radius:8px;"}
@@ -13,15 +20,23 @@ Growing up in a middle-class family, I watched my parents sacrifice everything s
 ---
 
 ## Early Schooling
+<details class="acc" markdown="1">
+  <summary><span class="acc__icon">📚</span><span>Tap to read my Early Schooling story</span></summary>
+
 - Studied until 7th grade in **Sri Gouri Sankar EM High School** (my hometown).  
 - Later moved to **Viswabharathi High School** to build a stronger foundation.  
 
 Even then, I set my first big goal: **score 10/10 in 10th standard** and join the *Chinna Batch* (a special IIT coaching program by Chaitanya & Narayana).  
 And I achieved it.
 
+</details>
+
 ---
 
 ## Junior College (Intermediate)
+<details class="acc" markdown="1">
+  <summary><span class="acc__icon">🎯</span><span>Tap to read my Junior College journey</span></summary>
+
 I dedicated myself fully — **missed family functions, outings, and comforts** — because I wanted only one thing: a seat in Top 5 IIT's.  
 
 - **IIT JEE Mains:** *330 Rank (General Category)*  
@@ -31,25 +46,40 @@ I dedicated myself fully — **missed family functions, outings, and comforts** 
 
 Each milestone was proof that **hard work + clarity beats everything**.
 
+</details>
+
 ---
 
 ## IIT Kharagpur
+<details class="acc" markdown="1">
+  <summary><span class="acc__icon">🎓</span><span>Tap to read my IIT KGP chapter</span></summary>
+
 I entered **IIT KGP, Computer Science** — one of the toughest and most rewarding journeys.  
 - Mastered **core CS fundamentals**  
 - Specialized in **Artificial Intelligence & Machine Learning**  
 - Internship at **Samsung**  
 - Final placements → **direct US job at ThirdAI**
 
+</details>
+
 ---
 
 ## Career
+<details class="acc" markdown="1">
+  <summary><span class="acc__icon">💼</span><span>Tap to read my Career path</span></summary>
+
 - Started my career in the US with **ThirdAI** (direct from campus).  
 - Now working at **ServiceNow** in the US, growing both career & compensation.  
 - Alongside, building a **crazy business journey** in parallel.  
 
+</details>
+
 ---
 
 ## The Mission
+<details class="acc" markdown="1">
+  <summary><span class="acc__icon">🚀</span><span>Tap to read the Mission</span></summary>
+
 My journey is still going. I’ve ticked off many dreams, but there are **many more ahead**.  
 
 And now through **Path2Destiny**, I want to **guide others** — students, graduates, professionals — to reach their own dreams with **clarity, accountability, and relentless drive**.
@@ -57,10 +87,16 @@ And now through **Path2Destiny**, I want to **guide others** — students, gradu
 ✨ Want to see the dreams I’ve already ticked and the ones I’m chasing?  
 Follow my journey on Instagram 👉 [Adunukota Yashwanth](https://www.instagram.com/lifter_soul?igsh=cGhoOTVqNmdpcXAz&utm_source=qr)
 
+</details>
+
 ---
+
 ## ✨ The Bigger Picture
+<details class="acc" markdown="1">
+  <summary><span class="acc__icon">💖</span><span>Tap to read the Bigger Picture</span></summary>
+
 Path2Destiny is built not just to guide, but to give.  
 From day one, I’ve committed that **30% of whatever comes in** goes to help people in need.  
 Success feels greater when it’s shared.
----
 
+</details>

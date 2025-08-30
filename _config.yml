@@ -1,24 +1,82 @@
 title: Path2Destiny
-description: Guidance to help you write your own story.
-url: "https://soullifter.github.io"
-baseurl: ""
-theme: minima
+description: Guidance + Accountability to write your own story
+url: https://soullifter.github.io
+baseurl: "" # keep empty for user.github.io style sites
+logo: /assets/images/Path2destiny.png
 
+# Minimal Mistakes power-ups
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "neon"   # 💥 vibrant colors
+search: true
+
+# Author card (shows on pages with author_profile: true)
 author:
-  Yashwanth Adunukota
-  yashulakshya310@gmail.com
+  name: "Yashwanth Adunukota"
+  avatar: "/assets/images/yashwanth.jpg"
+  bio: "Guidance + accountability. Not coaching. Not shortcuts. Just clarity and consistent action."
+  location: "United States"
+  links:
+    - label: "Instagram"
+      icon: "fab fa-instagram"
+      url: "https://instagram.com/lifter_soul"
+    - label: "YouTube"
+      icon: "fab fa-youtube"
+      url: "https://www.youtube.com/@yashwanthroyal5441"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/adunukota-yashwanth-73b32a18b/"
+    - label: "WhatsApp"
+      icon: "fab fa-whatsapp"
+      url: "https://chat.whatsapp.com/D1Srou22Ak6AoRaimfAqDt?mode=ems_copy_c"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:yashulakshya310@gmail.com"
 
-# Header navigation (Minima uses this, not `nav`)
-header_pages:
-  - index.markdown      # Home (optional; remove to hide)
-  - about.markdown      # My Story
-  - buckets.md          # Five Buckets (optional)
-  - packages.md         # Packages
-  - subscribe.md        # Subscribe
-  - faq.md              # FAQ
-  - contact.md          # Contact
+# Top navigation
+# Create this file if it doesn't exist: _data/navigation.yml (see Section 4)
+collections:
+  posts:
+    output: true
 
-markdown: kramdown
+# Plugins that work on GitHub Pages
 plugins:
+  - jekyll-include-cache
   - jekyll-feed
+  - jekyll-paginate
   - jekyll-sitemap
+
+# Defaults so pages get nice layout + sidebar automatically
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      sidebar:
+        nav: "main"
+      toc: true
+      author_profile: true
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      read_time: true
+      share: true
+      related: true
+
+# Footer
+footer:
+  links:
+    - label: Instagram
+      icon: "fab fa-instagram"
+      url: "https://instagram.com/lifter_soul"
+    - label: YouTube
+      icon: "fab fa-youtube"
+      url: "https://www.youtube.com/@yashwanthroyal5441"
+    - label: LinkedIn
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/adunukota-yashwanth-73b32a18b/"
+    - label: WhatsApp
+      icon: "fab fa-whatsapp"
+      url: "https://chat.whatsapp.com/D1Srou22Ak6AoRaimfAqDt?mode=ems_copy_c"

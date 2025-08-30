@@ -1,7 +1,13 @@
 ---
-layout: page
+layout: single
 title: FAQ
 permalink: /faq/
+author_profile: true
+header:
+  overlay_color: "#111"
+  overlay_filter: "0.45"
+  overlay_image: "https://images.unsplash.com/photo-1520975922215-230d3bc05d8d?q=80&w=1600&auto=format&fit=crop"
+---
 ---
 
 **Q: What is Path2Destiny?**  

@@ -1,0 +1,15 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "My Story"
+    url: /about/
+  - title: "Five Buckets"
+    url: /buckets/
+  - title: "Packages"
+    url: /packages/
+  - title: "Subscribe"
+    url: /subscribe/
+  - title: "FAQ"
+    url: /faq/
+  - title: "Contact"
+    url: /contact/

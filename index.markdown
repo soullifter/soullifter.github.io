@@ -1,71 +1,75 @@
 ---
-layout: home
-title: Home
+layout: splash
+title: "Write Your Own Story"
 permalink: /
+# HERO
+header:
+  overlay_color: "#111"
+  overlay_filter: "0.45"
+  overlay_image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=1600&auto=format&fit=crop"
+  actions:
+    - label: "See Packages"
+      url: "/packages/"
+      class: "btn btn--primary"
+    - label: "Subscribe Now"
+      url: "/subscribe/"
+      class: "btn"
+# INTRO ROW (keeps your core line)
+intro:
+  - excerpt: |
+      **You can write your own story.**  
+      Not coaching. Not shortcuts. Just **guidance + accountability**.
+# FEATURE ROW (your “What You’ll Get” bullets as tiles)
+feature_row:
+  - image_path: https://images.unsplash.com/photo-1585776245865-b92df54c6b25?q=80&w=1200&auto=format&fit=crop
+    alt: "Clarity"
+    title: "Clarity on Your Goals"
+    excerpt: "We’ll sit together and break down your goals into **short-term, mid-term, and long-term** so there’s zero confusion about **what to do next**."
+  - image_path: https://images.unsplash.com/photo-1506784983877-45594efa4cbe?q=80&w=1200&auto=format&fit=crop
+    alt: "Weekly actions"
+    title: "Weekly 2 Simple Actions"
+    excerpt: "No long to-do lists. Commit to **just two small but powerful actions** every week to stay consistent without overwhelm."
+  - image_path: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=1200&auto=format&fit=crop
+    alt: "Accountability"
+    title: "Guidance + Accountability"
+    excerpt: "I won’t do it for you—but I’ll **show the path, track progress, and push when you slow down**. You’ll always know someone’s got your back."
+# LINKS ROW (keeps your internal nav links)
+cta_links:
+  - excerpt: "👉 [Read My Story](/about/) · [Five Categories](/buckets/) · [See Packages](/packages/) · [Subscribe Now](/subscribe/)"
 ---
 
-**You can write your own story.**  
-Not coaching. Not shortcuts. Just **guidance + accountability**.  
+{% include feature_row id="intro" type="center" %}
 
----
-
-## 🚀 What You’ll Get
-- **Clarity on your goals**  
-  We’ll sit together and break down your goals into **short-term, mid-term, and long-term goals**.  
-  No more confusion about **what to do next**. 
-
-
-- **Weekly 2 simple actions**  
-  Instead of long to-do lists, you’ll commit to **just 2 small but powerful actions every week**.  
-  This keeps you consistent without overwhelming you.  
-
-
-- **Guidance + accountability**  
-  I won’t do things *for you* — but I’ll **show you the path, check your progress, and push you forward** when you slow down.  
-  You’ll always know someone’s got your back.
-
----
-
-## 💖 A Noble Cause
-Path2Destiny is not just about guidance — it’s about **giving back**.  
-30% of everything earned here will go to help people in need.  
-When you start your journey, you’re also contributing to someone else’s.  
-Together, we grow with good vibes. ✨
----
-
-👉 [Read My Story](/about/) · [Five Categories](/buckets/) . [See Packages](/packages/) · [Subscribe Now](/subscribe/)
-
-<div style="margin-top:20px; text-align:center;">
-  <!-- Instagram -->
-  <a href="https://instagram.com/lifter_soul" target="_blank" rel="noopener" style="margin-right:20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" 
-         alt="Instagram" width="40" height="40">
-  </a>
-
-  <!-- YouTube -->
-  <a href="https://www.youtube.com/@yashwanthroyal5441" target="_blank" rel="noopener" style="margin-right:20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" 
-         alt="YouTube" width="100" height="40">
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/adunukota-yashwanth-73b32a18b/" target="_blank" rel="noopener" style="margin-right:20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" 
-         alt="LinkedIn" width="40" height="40">
-  </a>
-
-  <!-- WhatsApp -->
-  <a href="https://chat.whatsapp.com/D1Srou22Ak6AoRaimfAqDt?mode=ems_copy_c" target="_blank" rel="noopener">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" 
-         alt="WhatsApp" width="40" height="40">
-  </a>
+<div class="reveal" markdown="1">
+{% include feature_row %}
 </div>
 
-<p style="text-align:center; margin-top:10px;">
-  📺 All recorded sessions and regular updates will be available on our 
-  <a href="https://www.youtube.com/@yashwanthroyal5441" target="_blank" rel="noopener"><b>YouTube channel</b></a>.  
-  Don’t forget to subscribe for notifications!
-</p>
+<div class="reveal" markdown="1">
+### 💖 A Noble Cause
+Path2Destiny is not just about guidance — it’s about **giving back**.  
+**30%** of everything earned here goes to help people in need.  
+When you start your journey, you’re also contributing to someone else’s.  
+Together, we grow with good vibes. ✨
+</div>
 
+<div class="reveal" style="text-align:center; margin:28px 0 6px;">
+  <p style="font-size:1.05rem; margin:0;">
+    📺 <strong>All recorded sessions and regular updates</strong> will be available on our
+    <a href="https://www.youtube.com/@yashwanthroyal5441" target="_blank" rel="noopener"><strong>YouTube channel</strong></a>.
+  </p>
+  <p style="opacity:.9; margin:.35rem 0 1rem;">
+    Subscribe to get notifications the moment we post.
+  </p>
+</div>
 
-
+<script>
+  // simple scroll-reveal to match the new style
+  const onScroll = () => {
+    document.querySelectorAll('.reveal').forEach(el => {
+      const r = el.getBoundingClientRect();
+      if (r.top < window.innerHeight - 80) el.classList.add('is-visible');
+    });
+  };
+  document.addEventListener('scroll', onScroll);
+  document.addEventListener('DOMContentLoaded', onScroll);
+</script>
