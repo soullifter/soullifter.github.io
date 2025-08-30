@@ -7,7 +7,8 @@ logo: /assets/images/Path2destiny.png
 # Minimal Mistakes power-ups
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "neon"   # 💥 vibrant colors
-search: true
+search: false                # no search box
+atom_feed: false
 
 # Author card (shows on pages with author_profile: true)
 author:
@@ -41,8 +42,6 @@ collections:
 # Plugins that work on GitHub Pages
 plugins:
   - jekyll-include-cache
-  - jekyll-feed
-  - jekyll-paginate
   - jekyll-sitemap
 
 # Defaults so pages get nice layout + sidebar automatically
